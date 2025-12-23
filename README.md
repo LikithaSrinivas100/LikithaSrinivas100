@@ -41,7 +41,7 @@ Currently focused on building **hands-on projects** that combine data analysis, 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: *(add when ready)*  
-- Email: *(optional)*  
+- LinkedIn: *https://www.linkedin.com/in/likitha-s100/*  
+- Email: *likithasrinivas2006@gmail.com*  
 
 ⭐ *Always learning, always building.*
